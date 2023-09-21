@@ -1,5 +1,5 @@
 # Python-Projects
-<b> HERE YOU CAN SEE VARIOUS PROJECTS ON PYTHON PROGRAMMING <b>
+<b> Embark on an exciting journey through my portfolio of Python programming projects, showcasing my expertise and creativity! <b>
 <ol>
 <b>
 <li>Rock-Paper-Scissors Game </li>

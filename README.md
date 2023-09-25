@@ -4,5 +4,6 @@
 <b>
 <li>Rock-Paper-Scissors Game </li>
 <li>Password Generator</li>
+<li>Hangman Game</li>
 </b>
 </ol>

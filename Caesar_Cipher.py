@@ -39,12 +39,12 @@ end_game = False
 
 while not end_game:
     
-    direction = input("Enter encode or decode:").lower()
+    direction = input("\n\nEnter encode or decode:").lower()
     text = input("Enter the text: ").lower()
     shift = int(input("enter the shift value: ")) % 26   # to avoid the limitation of the alphabet List
     #shift_key = shift % 26
     caesar_cipher(plain_text = text ,shift_amount = shift)
-    play_again = input("To continue press: y To Quit press n : ").lower()
+    play_again = input("\nTo continue press: y To Quit press n : ").lower()
     if play_again == 'n':
         end_game = True
         print("Thank You !")

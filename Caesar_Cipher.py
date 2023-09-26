@@ -33,13 +33,12 @@ def caesar_cipher(plain_text,shift_amount):
             caesar_cipher_txt += letter
             
     print(f"This is the {direction}d Text ---> ",caesar_cipher_txt)
-    
+
+print(logo)
 end_game = False
 
 while not end_game:
     
-    
-    print(logo)
     direction = input("Enter encode or decode:").lower()
     text = input("Enter the text: ").lower()
     shift = int(input("enter the shift value: ")) % 26   # to avoid the limitation of the alphabet List

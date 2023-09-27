@@ -15,6 +15,8 @@ logo = """
 |_____________________|
 """
 
+print(logo)
+
 def add(n1,n2):
     return n1+n2
 def sub(n1,n2):
@@ -35,7 +37,7 @@ operations = {
              }
 
 def cal():
-    print(logo)
+    
     num1 = float(input("\nenter the first number: "))
 
 

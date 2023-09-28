@@ -6,6 +6,7 @@
 <li>Password Generator</li>
 <li>Hangman Game</li>
 <li>Caesar Cipher</li>
-  <li>Basic Calculator</li>
+<li>Basic Calculator</li>
+<li>Black Jack Game</li>
 </b>
 </ol>

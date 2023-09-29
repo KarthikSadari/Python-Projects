@@ -8,5 +8,7 @@
 <li>Caesar Cipher</li>
 <li>Basic Calculator</li>
 <li>Black Jack Game</li>
+<li>Silent Auction</li>
+
 </b>
 </ol>

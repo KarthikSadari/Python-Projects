@@ -1,7 +1,7 @@
 logo = """
  _____________________
 |  _________________  |
-| | Python       0. | |  .----------------.  .----------------.  .----------------.  .----------------. 
+| | Pythonista   0. | |  .----------------.  .----------------.  .----------------.  .----------------. 
 | |_________________| | | .--------------. || .--------------. || .--------------. || .--------------. |
 |  ___ ___ ___   ___  | | |     ______   | || |      __      | || |   _____      | || |     ______   | |
 | | 7 | 8 | 9 | | + | | | |   .' ___  |  | || |     /  \     | || |  |_   _|     | || |   .' ___  |  | |
@@ -14,54 +14,47 @@ logo = """
 | |___|___|___| |___| |  '----------------'  '----------------'  '----------------'  '----------------' 
 |_____________________|
 """
-
 print(logo)
+import os
+def add(a,b):
+    return a+b
+def sub(a,b):
+    return a-b
+def mul(a,b):
+    return a*b
+def div(a,b):
+    return a/b
+def rem(a,b):
+    return a%b
 
-def add(n1,n2):
-    return n1+n2
-def sub(n1,n2):
-    return n1-n2
-def mul(n1,n2):
-    return n1*n2
-def div(n1,n2):
-    return n1/n2
-def rem(n1,n2):
-    return n1%n2
-
-operations = {
-                '+':add,
-                '-':sub,
-                '*':mul,
-                '/':div,
-                '%':rem
-             }
-
-def cal():
-    
-    num1 = float(input("\nenter the first number: "))
-
-
-    for symbol in operations:
-        print(symbol)
-
-        should_continue = True
-
-    while should_continue :
-        operation_symbol = input("choose ur operator : ")
-
-        num2 = float(input("enter the next number: "))
-
-        calculation_function = operations[operation_symbol]
-
-        answer = calculation_function(num1,num2)
-
-        print(f'\nthe solution is {num1} {operation_symbol} {num2} = {answer}')
-
-        ask=input("enter Y to continue calculation or N to new calculator: ").lower()
-
-        if ask == 'y':
-            num1 = answer
+operators = {
+    '+':add,
+    '-':sub,
+    '*':mul,
+    '/':div,
+    '%':rem
+}
+def calculator():
+    number1 = float(input("Enter first number: "))
+    continue_flag = True
+    while continue_flag:
+        for symbol in operators:
+            print(symbol)
+        operator = input("Enter the Operator you want: ")
+        number2 = float(input("Enter second number: "))
+        calculation_function = operators[operator]
+        output_fun = calculation_function(number1,number2)
+        print(f"{number1} {operator} {number2} = {output_fun}")
+        
+        should_continue = input(f"Press y to continue with {output_fun} or press n to start new calculation or press x to exit :---> ")
+        if should_continue == 'y':
+            number1 = output_fun
+        elif should_continue == 'n':
+            continue_flag = False
+            os.system('cls')
+            calculator()
         else:
-            should_continue = False
-            cal()
-cal()
+            continue_flag = False
+            print("Thank You for Using Calculator")
+calculator()
+        

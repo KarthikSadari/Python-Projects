@@ -10,5 +10,6 @@
 <li>Black Jack Game</li>
 <li>Silent Auction</li>
 <li>Guess The Number</li>
+<li>Higher Lower Game</li>
 </b>
 </ol>

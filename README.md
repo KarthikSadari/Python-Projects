@@ -11,5 +11,6 @@
 <li>Silent Auction</li>
 <li>Guess The Number</li>
 <li>Higher Lower Game</li>
+<li>Coffee Machine </li>
 </b>
 </ol>

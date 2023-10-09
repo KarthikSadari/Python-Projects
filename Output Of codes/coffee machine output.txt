@@ -1,0 +1,81 @@
+PS C:\Users\Karthik> python -u "c:\Users\Karthik\Desktop\Python-Projects\Coffee Machine.py"
+
+What would you like to have? (latte/espresso/cappuccino): report
+
+Water = 600ml
+Milk = 300ml
+Coffe = 100gm
+Money =Rs.0
+
+What would you like to have? (latte/espresso/cappuccino): latte
+{'ingredients': {'water': 200, 'milk': 150, 'coffee': 25}, 'cost': 150}
+Please insert the coins:
+How many 5Rs coins?: 10
+How many 10Rs coins?: 5
+How many 20Rs coins?: 3
+Here is your RS10 in Change.
+
+ ~~~~~~Here is your latte ˗ˏˋ☕ˎˊ˗ ~~~~~~
+
+What would you like to have? (latte/espresso/cappuccino): espresso
+{'ingredients': {'water': 50, 'coffee': 20}, 'cost': 100}
+Please insert the coins:
+How many 5Rs coins?: 5
+How many 10Rs coins?: 10
+How many 20Rs coins?: 3
+Here is your RS85 in Change.
+
+ ~~~~~~Here is your espresso ˗ˏˋ☕ˎˊ˗ ~~~~~~
+
+What would you like to have? (latte/espresso/cappuccino): cappuccino
+{'ingredients': {'water': 250, 'milk': 100, 'coffee': 24}, 'cost': 200}
+Please insert the coins:
+How many 5Rs coins?: 5
+How many 10Rs coins?: 5
+How many 20Rs coins?: 5
+Sorry that's not enough money. Money Refunded.
+
+What would you like to have? (latte/espresso/cappuccino): cappuccino
+{'ingredients': {'water': 250, 'milk': 100, 'coffee': 24}, 'cost': 200}
+Please insert the coins:
+How many 5Rs coins?: 5 
+How many 10Rs coins?: 5
+How many 20Rs coins?: 8
+Here is your RS35 in Change.
+
+ ~~~~~~Here is your cappuccino ˗ˏˋ☕ˎˊ˗ ~~~~~~
+
+What would you like to have? (latte/espresso/cappuccino): report
+
+Water = 100ml
+Milk = 50ml
+Coffe = 31gm
+Money =Rs.450
+
+What would you like to have? (latte/espresso/cappuccino): latte
+{'ingredients': {'water': 200, 'milk': 150, 'coffee': 25}, 'cost': 150}
+Sorry ther is not enough water
+
+What would you like to have? (latte/espresso/cappuccino): espresso  
+{'ingredients': {'water': 50, 'coffee': 20}, 'cost': 100}
+Please insert the coins:
+How many 5Rs coins?: 10
+How many 10Rs coins?: 5
+How many 20Rs coins?: 0
+Here is your RS0 in Change.
+
+ ~~~~~~Here is your espresso ˗ˏˋ☕ˎˊ˗ ~~~~~~
+
+What would you like to have? (latte/espresso/cappuccino): report
+
+Water = 50ml
+Milk = 50ml
+Coffe = 11gm
+Money =Rs.550
+
+What would you like to have? (latte/espresso/cappuccino): espresso
+{'ingredients': {'water': 50, 'coffee': 20}, 'cost': 100}
+Sorry ther is not enough coffee
+
+What would you like to have? (latte/espresso/cappuccino): off
+PS C:\Users\Karthik>

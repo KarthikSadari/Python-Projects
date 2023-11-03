@@ -12,14 +12,14 @@ def show_menu():
 while user_input != '4':
 
     show_menu()
-    user_input = input("\nEnter your choice: ")
+    user_input = input("\nEnter your choice: ").lower()
 
     if user_input == '1':
-        item = input("\nWhat is to be done? :")
+        item = input("\nWhat is to be done? :").lower()
         data.append(item)
         print("\nAdded item: ",item)
     elif user_input == '2':
-        item= input("\nWhat is to be marked as done?: ")
+        item= input("\nWhat is to be marked as done?: ").lower()
         if item in data:
             data.remove(item)
             print("\nRemoved item: ",item)
@@ -29,7 +29,7 @@ while user_input != '4':
         print("\nList of to-do itmes:")
         for item in data:
             print(item)
-    elif user_input == 4:
+    elif user_input == '4':
         print("Exit")
         print("Good Bye!!")
     else:

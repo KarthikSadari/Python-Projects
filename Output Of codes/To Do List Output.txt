@@ -1,0 +1,92 @@
+PS C:\Users\Karthik> python -u "c:\Users\Karthik\Desktop\Python-Projects\To Do List.py"
+
+Menu:
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: 1
+
+What is to be done? :complete python projects
+
+Added item:  complete python projects
+
+Menu: 
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: 1
+
+What is to be done? :make a portfolio
+
+Added item:  make a portfolio
+
+Menu: 
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: 1
+
+What is to be done? :make certifications
+
+Added item:  make certifications
+
+Menu: 
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: build knowledge in dynamic coding
+Please enter one of 1, 2, 3, or 4
+
+Menu:
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: 3
+
+List of to-do itmes:
+complete python projects
+make a portfolio
+make certifications
+
+Menu:
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: 2
+
+What is to be marked as done?: complete python projects
+
+Removed item:  complete python projects
+
+Menu:
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: 2
+
+What is to be marked as done?: complete python projects
+Item does not exist in the list
+
+Menu:
+1. Add an item
+2. Mark as done
+3. View item
+4. Exit
+
+Enter your choice: 4
+Exit
+Good Bye!!

@@ -13,5 +13,6 @@
 <li>Higher Lower Game</li>
 <li>Coffee Machine</li>
 <li>To Do List</li>
+<li>Python Quiz Game</li>
 </b>
 </ol>

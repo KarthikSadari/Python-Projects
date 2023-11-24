@@ -2,9 +2,9 @@
 <b> Embark on an exciting journey through my portfolio of Python programming projects, showcasing my expertise and creativity! <b>
 <ol>
 <b>
-<li>Rock Paper Scissors Game  <a href="Rock-Paper-Scissors_Game.py"> CODE</a> <a href="Output Of codes/Rock Paper Scissors game python code output.png"> OUTPUT</a> </li>
-<li>Password Generator</li> <a href="Password_Generator.py"> CODE</a> <a href="Output Of codes/Output of Password Generator code.png"> OUTPUT</a>
-<li>Hangman Game</li> <a href="Hangman_Game.py"> CODE</a> <a href="Output Of codes/Hangman Output.txt"> OUTPUT</a>
+<li>Rock Paper Scissors Game <br> <a href="Rock-Paper-Scissors_Game.py">CODE</a> <br> <a href="Output Of codes/Rock Paper Scissors game python code output.png">OUTPUT</a> </li>
+<li>Password Generator</li> <br> <a href="Password_Generator.py">CODE</a> <br> <a href="Output Of codes/Output of Password Generator code.png">OUTPUT</a>
+<li>Hangman Game</li> <br> <a href="Hangman_Game.py">CODE</a> <br> <a href="Output Of codes/Hangman Output.txt"> OUTPUT</a>
 <li>Caesar Cipher</li> <a href="Caesar_Cipher.py"> CODE</a> <a href="Output Of codes/Caesar Cipher Output.png"> OUTPUT</a>
 <li>Basic Calculator</li> <a href="Basic_Calculator.py"> CODE</a> <a href="Output Of codes/Basic Calculator Output.png"> OUTPUT</a>
 <li>Black Jack Game</li> <a href="Black_Jack_Game.py"> CODE</a> <a href="Output Of codes/Output Black Jack game.png"> OUTPUT</a>

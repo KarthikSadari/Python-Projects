@@ -1,0 +1,117 @@
+PS C:\Users\Karthik> python -u "c:\Users\Karthik\Desktop\Python-Projects\Quiz game.py"
+**************************
+Welcome to My Quiz Game!!!
+
+**************************
+Who developed the Python language?
+A. Zim Den
+B. Guido van Rossum
+C. Niene Stom
+D. Wick van Rossum
+
+Enter your answer(A/B/C/D): B
+Correct Answer
+Your corrent score is :1/1
+
+**************************
+What is the maximum length of a Python identifier?
+A. 32
+B. 16
+C. 128
+D. No fixed length is specified
+
+Enter your answer(A/B/C/D): A
+Incorrect!!!!
+The correct answer is : D
+Your corrent score is :1/2
+
+**************************
+The ability of one class to acuire methods and attributes of another class is called ________.
+A. Inheritance
+B. Abstraction
+C. Polymorphism
+D. Object
+
+Enter your answer(A/B/C/D): A
+Correct Answer
+Your corrent score is :2/3
+
+**************************
+In which year was the Python language developed?
+A. 1995
+B. 1972
+C. 1981
+D. 1989
+
+Enter your answer(A/B/C/D): D
+Correct Answer
+Your corrent score is :3/4
+
+**************************
+Which of the following is a type of inheritance?
+A. Single
+B. Double
+C. Multiple
+D.both A and C
+
+Enter your answer(A/B/C/D): D
+Correct Answer
+Your corrent score is :4/5
+
+**************************
+ What is the method inside the class in python language?
+A. Object
+B. Function
+C. Attribute
+D. Argument
+
+Enter your answer(A/B/C/D): B
+Correct Answer
+Your corrent score is :5/6
+
+**************************
+What type of inheritance has multiple subclass to a single super class?
+A. Multiple Inheritance
+B. Multilevel Inheritance
+C. Hierarchical Inheritance
+D. None of the above
+
+Enter your answer(A/B/C/D): C
+Correct Answer
+Your corrent score is :6/7
+
+**************************
+What is the depth of multilevel inheritance in python?
+A. Two level
+B. Three level
+C. Any level
+D. None of these
+
+Enter your answer(A/B/C/D): C
+Correct Answer
+Your corrent score is :7/8
+
+**************************
+What does MRO stand for?
+A. Method Recursive Object
+B. Method Resolution Order
+C. Main Resolution Order
+D. Method Rational Order
+
+Enter your answer(A/B/C/D): B
+Correct Answer
+Your corrent score is :8/9
+
+**************************
+Which of the following precedence order is correct in Python?
+A. Parentheses, Exponential, Multiplication, Division, Addition, Subtraction
+B. Multiplication, Division, Addition, Subtraction, Parentheses, Exponential
+C. Division, Multiplication, Addition, Subtraction, Parentheses, Exponential
+D. Exponential, Parentheses, Multiplication, Division, Addition, Subtraction
+
+Enter your answer(A/B/C/D): A
+Correct Answer
+Your corrent score is :9/10
+
+Number of correct answers: 9
+Your score is 90.0%

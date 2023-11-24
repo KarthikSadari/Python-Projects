@@ -2,7 +2,7 @@
 <b> Embark on an exciting journey through my portfolio of Python programming projects, showcasing my expertise and creativity! <b>
 <ol>
 <b>
-<li>Rock Paper Scissors Game <br> <a href="Rock-Paper-Scissors_Game.py">CODE</a> <br> <a href="Output Of codes/Rock Paper Scissors game python code output.png">OUTPUT</a> </li>
+<li>Rock Paper Scissors Game <wbr> <a href="Rock-Paper-Scissors_Game.py">CODE</a> <wbr> <a href="Output Of codes/Rock Paper Scissors game python code output.png">OUTPUT</a> </li>
 <li>Password Generator</li> <br> <a href="Password_Generator.py">CODE</a> <br> <a href="Output Of codes/Output of Password Generator code.png">OUTPUT</a>
 <li>Hangman Game</li> <br> <a href="Hangman_Game.py">CODE</a> <br> <a href="Output Of codes/Hangman Output.txt"> OUTPUT</a>
 <li>Caesar Cipher</li> <a href="Caesar_Cipher.py"> CODE</a> <a href="Output Of codes/Caesar Cipher Output.png"> OUTPUT</a>
